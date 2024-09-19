@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1721468094187" clover="3.2.0">
-  <project timestamp="1721468094187" name="All files">
+<coverage generated="1726761661409" clover="3.2.0">
+  <project timestamp="1726761661409" name="All files">
     <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="15" coveredelements="15" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
     <file name="app.js" path="C:\Netology\jsaqa-code\7.3\jest\app.js">
       <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
